@@ -1,5 +1,4 @@
 ![MasterHead](https://i.pinimg.com/originals/5b/57/6b/5b576b998050d3ab681820ce9b701e11.gif)
-![MasterHead](https://i.pinimg.com/originals/5b/57/6b/5b576b998050d3ab681820ce9b701e11.gif)
 <h1 align="center">Hi 👋, I'm Bucke</h1>
 <h3 align="center">A competitive programmer and a developer on caffeine.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
