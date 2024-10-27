@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **neural networks**
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **deep learning**
 
-- 💬 Ask me about **DSA, DSA, DSA**
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **srinjaypanja200@gmail.com**
 
