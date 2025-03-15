@@ -22,7 +22,7 @@
 <a href="https://twitter.com/srinjay_panja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srinjay_panja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srinjay panja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinjay panja" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raw_whirl_64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raw_whirl_64" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/srinjaypanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srinjaypanja" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/CyntaxError" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srinjaypanja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashborn200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashborn200" height="30" width="40" /></a>
 </p>
 
